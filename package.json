@@ -1,0 +1,45 @@
+{
+  "name": "estol-comments",
+  "version": "1.1.0",
+  "description": "Comment's management dependency for blogs, social, etc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estol-web-design/estol-comments-dependency.git"
+  },
+  "keywords": [
+    "comments",
+    "comment-management",
+    "social-media",
+    "blog",
+    "community",
+    "discussion",
+    "interaction",
+    "user-engagement",
+    "web-development",
+    "content-management",
+    "feedback",
+    "user-comments",
+    "website-comments",
+    "commenting-system",
+    "react",
+    "vue",
+    "angular",
+    "npm-package"
+  ],
+  "dependencies": {
+    "dompurify": "^3.0.8",
+    "jsdom": "^23.2.0",
+    "mongoose": "^8.0.3"
+  },
+  "author": "Esteban Guillermo Olivera Pereyra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estol-web-design/estol-comments-dependency/issues"
+  },
+  "homepage": "https://github.com/estol-web-design/estol-comments-dependency#readme",
+  "type": "module"
+}
